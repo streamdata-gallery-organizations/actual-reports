@@ -11,13 +11,13 @@ image: http://actualreports.com/assets/images/logo/logo.png
 x-kinRank: "8"
 x-alexaRank: ""
 tags: Actual Reports
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/actual-reports/master/_listings/actual-reports/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
-- type: x-apijson--authoritative
+- type: x-api-json--authoritative
   url: https://app.actualreports.com/apis.json
 - type: x-blog
   url: http://blog.actualreports.com
